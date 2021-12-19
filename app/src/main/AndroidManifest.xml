@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.memorytracker">
+
+    <application
+        android:allowBackup="true"
+        android:appCategory="audio"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MemoryTracker">
+        <activity
+            android:name=".memorabilia.Memorabilia"
+            android:exported="false"
+            android:label="@string/memorabilia"/>
+        <activity
+            android:name=".quotes.Quotes"
+            android:exported="false"
+            android:label="@string/quotes"/>
+        <activity
+            android:name=".source.VideoFullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="@string/title_activity_video_fullscreen"
+            android:theme="@style/Theme.MemoryTracker.Fullscreen" />
+
+        <meta-data
+            android:name="com.google.android.gms.car.application"
+            android:resource="@xml/automotive_app_desc" />
+
+        <activity
+            android:name=".source.SourceOverview"
+            android:exported="false"
+            android:label="@string/sources"/>
+        <activity
+            android:name=".dayCounter.DayCounter"
+            android:exported="false"
+            android:label="@string/dayCounter"/>
+        <activity
+            android:name=".source.SourceCreator"
+            android:exported="false"
+            android:label="@string/sources"/>
+        <activity
+            android:name=".source.Sources"
+            android:exported="false"
+            android:label="@string/sources"/>
+        <activity
+            android:name=".books.Books"
+            android:exported="false"
+            android:label="@string/books"/>
+        <activity
+            android:name=".memories.Memories"
+            android:exported="false"
+            android:label="@string/memories"/>
+        <activity
+            android:name=".mood.MoodTrackerInput"
+            android:exported="false"
+            android:label="@string/mood_tracker"/>
+        <activity
+            android:name=".mood.MoodTracker"
+            android:exported="false"
+            android:label="@string/mood_tracker"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+
+        </provider>
+
+    </application>
+
+</manifest>

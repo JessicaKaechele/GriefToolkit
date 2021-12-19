@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/add_icon.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/baseline_chevron_left_18.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/baseline_chevron_right_18.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/baseline_chevron_right_36.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/dashed_border.xml" value="0.5" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/fab_shape.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/ic_baseline_fullscreen_24.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/oval_ripple.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/pause.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/remove_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/rounded_corners_shape_overlay.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/table_border.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/test.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/drawable/transparent_card.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_books.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_day_counter.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_memorabilia.xml" value="0.5" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_memories.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_memory.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_mood_tracker.xml" value="0.21863117870722434" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_mood_tracker_input.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_quotes.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_source_creator.xml" value="0.25882352941176473" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_source_overview.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_sources.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/activity_video_fullscreen.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/audio_view.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/book.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.23802163833075735" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/due.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/first_content.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/input_view.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/input_view_audio.xml" value="0.2743362831858407" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/input_view_img.xml" value="0.25695216907675195" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/input_view_vid.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/memory.xml" value="0.12" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/popup_photo_full.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/popup_video_full.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/quote.xml" value="0.2667509481668774" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layout/source.xml" value="0.22" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/books/layout/activity_books.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/books/layout/book.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/main/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/memories/layout/activity_memories.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/mood/layout/activity_mood_tracker.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/mood/layout/activity_mood_tracker_input.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/quotes/layout/activity_quotes.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/quotes/layout/memorabilia.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/quotes/layout/quote.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/activity_source_creator.xml" value="0.31097560975609756" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/activity_source_overview.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/activity_sources.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/activity_video_fullscreen.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/bottom_sheet_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/bottom_sheet_dialog_memorabilia.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/input_view.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/input_view_audio.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/input_view_img.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/input_view_vid.xml" value="0.1" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/layouts/source/layout/source.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/menu/menu_memories.xml" value="0.22" />
+        <entry key="..\:/Users/Jessi/AndroidStudioProjects/MemoryTracker/app/src/main/res/xml/provider_paths.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

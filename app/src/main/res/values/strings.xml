@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Grief Toolkit</string>
+    <string name="mood_tracker">Mood Tracker</string>
+    <string name="memories">Erinnerungen</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="books">Bücher/Filme</string>
+    <string name="sources">Kraftquellen</string>
+    <string name="quotes">Zitate</string>
+    <string name="memorabilia">Memorabilien</string>
+    <string name="talking">Das willst du ihm sagen</string>
+    <string name="title_activity_memories">Memories</string>
+    <string name="sourceText">Textbaustein</string>
+    <string name="sourceImgVideo">Bild oder Video</string>
+    <string name="sourceAudio">Tonaufnahme</string>
+    <string name="sourceInput">Gib hier einen Text ein</string>
+    <string name="title">Titel</string>
+    <string name="save">Speichern</string>
+    <string name="modify">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+    <string name="addSource">weitere Texte, Fotos, Videos hinzufügen</string>
+    <string name="dayCounter">Day Counter</string>
+    <string name="days">Tage</string>
+    <string name="weeks">Wochen</string>
+    <string name="months">Monate</string>
+    <string name="years">Jahre</string>
+    <string name="back">Zurück</string>
+    <string name="camera">Kamera</string>
+    <string name="img">Bild</string>
+
+
+
+    @string/
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="title_activity_video_fullscreen">VideoFullscreenActivity</string>
+
+</resources>
